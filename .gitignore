@@ -60,3 +60,8 @@ package-lock.json
 
 # Planning (local scratchpad)
 plan/
+
+# Personal data (belongs in private career-ops-personal, never the public fork)
+resume/
+interview-prep/
+article-digest.md
